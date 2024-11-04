@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>سامانه روادید الکترونیکی</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>روادید الکترونیکی</h1>
+        </header>
+        <section class="status">
+            <h2>بررسی وضعیت درخواست</h2>
+            <div class="info">
+                <p><strong>کد رهگیری:</strong> IUU6ILI9VZZ80612I5</p>
+                <p><strong>شماره گذرنامه:</strong> P06842632</p>
+                <p><strong>ملیت:</strong> افغانستان</p>
+                <p><strong>تاریخ ثبت درخواست:</strong> 2024/9/17 (1403/06/27)</p>
+                <p><strong>بررسی وضعیت درخواست:</strong> صادر شده</p>
+                <p><strong>اعتبار از:</strong> 2024/10/26 (1403/08/05)</p>
+                <p><strong>اعتبار تا:</strong> 2025/1/23 (1403/11/4)</p>
+                <p><strong>مدت روادید:</strong> 60 روز</p>
+            </div>
+            <button>سامانه روادید الکترونیکی</button>
+        </section>
+    </div>
+</body>
+</html>
